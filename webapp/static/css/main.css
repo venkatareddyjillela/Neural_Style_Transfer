@@ -1,0 +1,38 @@
+body {
+  background-color: #e5e9ed;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+  margin: 5px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+.form-control {
+  margin: 5px;
+  width: 100%;
+}
+
+.upload-image-label {
+  margin: 5px;
+  width: 100%;
+  text-align: center;
+}
+
+.Generated-Image {
+  margin: 5px;
+  width: 100%;
+  padding: 18px;
+  text-align: center;
+}
