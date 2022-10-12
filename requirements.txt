@@ -1,0 +1,6 @@
+matplotlib
+numpy
+Pillow
+IPython
+tensorflow
+tensorflow_hub
